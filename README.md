@@ -2,6 +2,7 @@
 
 ## Description
 CSE103 lab repository — LAB 3.
+<<<<<<< HEAD
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/valdorathedragon/cse103-lab-LAB3)
@@ -47,3 +48,6 @@ GitHub Skills
 Markdown Guide
 
 
+=======
+<!-- remote edit -->
+>>>>>>> 0fd971665314b93f392720c2471e2776e5522fba
